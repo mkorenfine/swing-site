@@ -18,7 +18,8 @@ th,td{padding:8px 10px;border-bottom:1px solid #eef1f4;text-align:right;white-sp
 th{background:#f0f3f6;font-weight:600;font-size:13px;color:#3b4652}
 td.n{direction:ltr;text-align:right;font-variant-numeric:tabular-nums}
 tr:last-child td{border-bottom:none}
-.pos{color:#0f7b3f}.neg{color:#c0262d}
+.pos{color:#0f7b3f}.neg{color:#c0262d}.warn{color:#8a5a00}
+.analyst h3{font-size:14px;margin:12px 0 4px}.analyst p,.analyst li{font-size:13.5px;line-height:1.6}
 .tag{display:inline-block;padding:1px 8px;border-radius:10px;font-size:12px;background:#e8eef6}
 .tag.long{background:#e2f4ea;color:#0f7b3f}.tag.short{background:#fbe5e6;color:#c0262d}
 .tag.pass{background:#e2f4ea;color:#0f7b3f}.tag.warn{background:#fff3d6;color:#8a5a00}
